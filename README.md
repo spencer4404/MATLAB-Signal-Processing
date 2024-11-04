@@ -1,4 +1,4 @@
-# ECE-213
+# MATLAB Signal Processing
 
 In this repository are two MATLAB computing excersizes I created in my ECE 213 Continuous Time Signals class.
 
